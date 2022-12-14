@@ -3,7 +3,7 @@ import styles from './Cardapio.module.scss';
 import { ReactComponent as Logo } from 'assets/logo.svg';
 import Buscador from './Buscador';
 import Filtros from './Filtros';
-import Ordenador from 'pages/Ordenador';
+import Ordenador from 'pages/Cardapio/Ordenador';
 import Itens from './Itens';
 import Menu from '../../components/Menu';
 import stylesTema from 'styles/Tema.module.scss';
